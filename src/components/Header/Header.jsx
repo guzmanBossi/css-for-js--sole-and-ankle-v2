@@ -29,7 +29,7 @@ const Header = () => {
 const MainHeader = styled.div`
   display: flex;
   align-items: center;  
-  padding: 0 32px;
+  padding: 16px 32px;
   border-bottom: 1px solid ${COLORS.gray[300]};
 `;
 
