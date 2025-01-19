@@ -18,6 +18,7 @@ const App = () => {
 };
 
 const Main = styled.main`
+  display: flex;
   padding: 64px 32px;
 `;
 
